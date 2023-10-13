@@ -1,5 +1,5 @@
 # Visit https://docs.shiftleft.io for help
-name: Qwiet
+name: Qwiet_Bruce_Alpine
 
 on:
   pull_request:
